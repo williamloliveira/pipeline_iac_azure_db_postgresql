@@ -1,0 +1,5 @@
+rg              = "TerraformAzurePostgreSQLdb"
+regiao          = "eastus"
+env             = "p"
+nome_sistema    = "pagamentos"
+admin_user_passwd = "P@ssW0dComPl3x"
